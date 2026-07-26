@@ -269,3 +269,18 @@ Join: `sub_B9B0C0` `0x00B9B0C0`, `sub_BC0500` `0x00BC0500`, `sub_BBFA10` `0x00BB
 Sign-in: `sub_7720E0` `0x007720E0`, gate `sub_771D60` `0x00771D60`.
 Flags: `byte_1C86C16` `0x01C86C16`, `byte_1C86BDB` `0x01C86BDB`,
 `dword_1C86BE4` (primary pad) `0x01C86BE4`, `dword_1C86BE8` (guest pad) `0x01C86BE8`.
+
+---
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** —
+see [`LICENSE`](LICENSE).
+
+### Third-party components (not included in this repository)
+- **XLiveLessNess** — GFWL replacement (`xlive.dll`) that loads this module. LGPL-2.1.
+  Obtain it from its own project; it is not redistributed here.
+- **Opus** — audio codec used by XLiveLessNess's build. BSD-3-Clause. Not redistributed here.
+
+No Fable III game files, binaries, or copyrighted assets are included or redistributed.
+Reverse-engineered addresses are provided for interoperability/research.
