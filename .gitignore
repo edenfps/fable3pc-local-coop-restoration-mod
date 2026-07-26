@@ -1,0 +1,22 @@
+# Build artifacts
+*.obj
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+build/
+bin/
+Debug/
+Release/
+.vs/
+*.user
+*.aps
+
+# Runtime output (regenerated every launch)
+couchcoop.log
+
+# Local toggles used during development
+nofilter.txt
+filterpad2.txt
+probe.txt

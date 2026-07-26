@@ -1,0 +1,3 @@
+LIBRARY fable3_couchcoop
+EXPORTS
+    XLLNModulePostInit @41101
